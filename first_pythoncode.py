@@ -1,3 +1,7 @@
+# Variable is a container that holds data values. In Python, 
+# variables are created when you assign a value to them. 
+# The equal sign (=) is used to assign values to variables.
+#  The variable name should be descriptive and should follow the naming conventions.``
 name = 'Ayibel Thomas' # This is a string 
 age = 23 # This is an integer
 salary = 16445.45 # This is a float
