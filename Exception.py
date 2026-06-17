@@ -5,6 +5,7 @@ def division(a,b):
     return f"{e} error !!"
   else :
     print("There was no error occured!!")
+    return c
   finally:
     print(f"There we divied {a} with {b}")
 
