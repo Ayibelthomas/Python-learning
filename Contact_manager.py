@@ -7,6 +7,7 @@ class Contact :
 my_contacts = []
 
 while True:
+    
     print("Contact Manager:")
     print("1. Add a contact")
     print("2. View contacts")
