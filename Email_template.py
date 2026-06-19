@@ -3,7 +3,7 @@ Dear {} ,
       Thankyou for applying in {} for the role {} .After careful consideration we are {} to inform you that we have 
       decided to {} with your application.{}
       Thankyou
-      {}
+      {} 
 '''
 name =   input("Name = ")
 cname =  input("Company Name = ")
