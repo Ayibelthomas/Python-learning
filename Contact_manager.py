@@ -4,6 +4,7 @@ class Contact :
         self.phone_number = phone_number
         self.email = email
 
+
 my_contacts = [] 
 
 while True:
