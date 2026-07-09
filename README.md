@@ -86,7 +86,6 @@ I will continue adding new projects and concepts, including:
 * API Integration Projects
 
 ## 🤝 Contributions
-
 This repository is primarily for learning and personal development. Suggestions and feedback are always welcome.
 
 ## 👨‍💻 Author
